@@ -1,7 +1,6 @@
 python
 from circle import Circle
 from rectangle import Rectangle
-python
 print("Конфигурация загружена")
 
 
